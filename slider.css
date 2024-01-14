@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url('image/8079_urban-landscape-red_1920x1080.jpg');
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.carousel-item {
+    transition: transform .6s ease-in-out;
+}
+
